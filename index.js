@@ -19,7 +19,7 @@ let h= z*n
 console.log(a5)
 const C = 'Yellow';
  console.log(C[5]);
- let l = 4 l = String(4)
+ 
 console.log(A+=2)
 var doMath = 7 + 8 + 36 + 18 + 12
  console.log(doMath)
