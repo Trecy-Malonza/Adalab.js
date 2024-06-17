@@ -1,0 +1,31 @@
+#container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+}
+.single-album-container{
+    width:30%;
+    height: 30%;
+    border: solid 1px gray;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    padding: 20 5 0px;
+}
+.single-album-container-img{
+    width: 80%;
+}
+.single-album-container{
+    text-align: center;
+    font-size: 18px;
+}
+
+
+
+
+
+
+

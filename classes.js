@@ -24,4 +24,4 @@ console.log({student});
 student.profession();
 // this keyword for the instance of an object you will create
 
-classes
+
